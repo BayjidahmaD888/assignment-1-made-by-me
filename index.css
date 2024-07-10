@@ -426,6 +426,10 @@ letter-spacing: 0%;
 text-align: center;
 }
 .my-inspiration{
+  
+}
+.my-inspiration-title{
+    text-align: center;
     color: rgb(13, 19, 33);
     font-family: Azeret Mono;
     font-size: 32px;
@@ -438,12 +442,40 @@ align-items: center;
 justify-content: center;
 padding-top: 80px;
 padding-left: 342px;
-}
-.my-inspiration-title{
-    text-align: center;
    
 }
-h1{
+.my-inspiration-def{
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    letter-spacing: 0%;
     text-align: center;
-  
+    opacity: 0.7;
+position: static;
+height: 52px;
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: flex-start;
+align-items: center;
+padding-right: 290px;
+padding-left: 290px;
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+margin: 24px 0px;
+
+
+}
+.inspiration-vdo{
+/* Rectangle 1 */
+position: absolute;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+margin-left: 140px;
+border-radius: 50%;
 }
