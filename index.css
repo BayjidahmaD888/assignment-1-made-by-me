@@ -115,7 +115,7 @@ margin-bottom: 45px;
     width: 1520px;
     height: 655px;
     background-color: white;
-    display: flex;
+    
     justify-content: center;
 }
 .sec-layer{
@@ -127,6 +127,9 @@ margin-bottom: 45px;
    margin-right: 75px;
    border-radius: 16px;
    padding-right: 80px;
+   padding-bottom: 80px;
+
+
 }
 .third-layer{
     width: 946px;
@@ -421,4 +424,26 @@ font-weight: 600;
 line-height: 23px;
 letter-spacing: 0%;
 text-align: center;
+}
+.my-inspiration{
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 32px;
+    font-weight: 800;
+    letter-spacing: 0%;
+    text-align: center;
+width: 852px;
+display: flex;
+align-items: center;
+justify-content: center;
+padding-top: 80px;
+padding-left: 342px;
+}
+.my-inspiration-title{
+    text-align: center;
+   
+}
+h1{
+    text-align: center;
+  
 }
