@@ -1,0 +1,424 @@
+@import url('https://fonts.googleapis.com/css2?family=Azeret+Mono:ital,wght@0,100..900;1,100..900&display=swap');
+nav{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 150px;
+    margin-right: 150px;
+    height: 100px;
+    color: rgb(13, 19, 33);
+   align-content: center;
+   align-items: center;
+}
+.myname{
+    /* Awlad.H */
+
+width: 128px;
+height: 33px;
+left: 150px;
+top: 50px;
+font-family: Azeret Mono;
+font-size: 28px;
+font-weight: 800;
+line-height: 33px;
+letter-spacing: 0%;
+text-align: left;
+margin-top: 50px;
+}
+.download{
+    box-sizing: border-box;
+border: 1px solid rgb(13, 19, 33);
+border-radius: 8px;
+opacity: 0.8;
+width: 256px;
+height: 57px;
+justify-content: center;
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 17px 24px 17px 24px;
+margin-top: 38px;
+
+}
+nav button a{
+    text-decoration: none;
+    color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 20px;
+font-weight: 600;
+line-height: 23px;
+letter-spacing: 0%;
+text-align: center;
+
+}
+.body{
+    background-image: url("assets/Hero-bg.png");
+    width: 1520px;
+    height: 652px;
+}
+.coding-guy{
+    margin-left: 599.86px;
+    margin-top: 26px;
+    
+}
+.body-title{
+    width: 998px;
+    height: 136px;
+    color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 48px;
+font-weight: 800;
+line-height: 68px;
+letter-spacing: 0%;
+text-align: center;
+margin-left: 221px;
+}
+.body-deffenation{
+    color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 16px;
+font-weight: 400;
+line-height: 26px;
+letter-spacing: 0%;
+text-align: center;
+margin-left: 294px;
+margin-right: 294px;
+}
+.contact {
+
+/* Frame 2 */
+
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 21px 24px 21px 24px;
+position: static;
+justify-content: center;
+margin-left: 598px;
+border-radius: 8px;
+background: rgb(13, 19, 33);
+color: rgb(255, 255, 255);
+font-family: Azeret Mono;
+font-size: 20px;
+font-weight: 600;
+line-height: 23px;
+letter-spacing: 0%;
+text-align: center;
+margin-bottom: 45px;
+
+
+}
+.first-layer{
+    width: 1520px;
+    height: 655px;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+}
+.sec-layer{
+   width: 1400px;
+   background-color: rgba(13, 19, 33, 0.02);
+   height: 1390px;
+   margin-top: 70px;
+   margin-left: 75px;
+   margin-right: 75px;
+   border-radius: 16px;
+   padding-right: 80px;
+}
+.third-layer{
+    width: 946px;
+height: 1235px;
+    padding-right: 97px;
+    padding-top: 80px;
+   
+}
+.wwd-title{
+    color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 32px;
+font-weight: 800;
+line-height: 37px;
+letter-spacing: 0%;
+text-align: center;
+width: 852px;
+height: 39px;
+display: flex;
+flex-direction: column;
+justify-content: flex-start;
+padding-left: 300px;
+
+}
+.wwd-def{
+    color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 16px;
+font-weight: 400;
+line-height: 26px;
+text-align: center;
+
+width: 1000px;
+height: 52px;
+display: flex;
+flex-direction: column;
+justify-content: flex-start;
+align-items: center;
+padding-left: 160px;
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+margin: 24px 0px;
+opacity: 0.7;
+position: absolute;
+
+}
+.my-aim{
+    display: flex;
+    align-items: center;
+    background-color: white;
+    justify-content: center;
+    position: absolute;
+    padding-left: 100px;
+    margin-left: 100px;
+    padding-right: 70px;
+  margin-top: 170px;
+  border-radius: 16px;
+}
+.my-title{
+    color: rgba(13, 19, 33, 0.7);
+    font-family: Azeret Mono;
+font-size: 24px;
+font-weight: 700;
+line-height: 36px;
+letter-spacing: 0%;
+text-align: left;
+width: 390px;
+height: 72px;
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: flex-start;
+padding: 0px;
+margin-top: 48px;
+
+
+}
+.my-aim-def{
+    color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 16px;
+font-weight: 400;
+line-height: 26px;
+letter-spacing: 0%;
+text-align: left;
+opacity: 0.7;
+position: static;
+width: 468px;
+height: 52px;
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: flex-start;
+padding: 0px;
+flex: none;
+order: 1;
+flex-grow: 0;
+margin: 16px 0px;
+}
+.chobi{
+    margin-right: 100px;
+    padding-left: 100px;
+
+}
+.lm{
+    box-sizing: border-box;
+border: 1px solid rgb(13, 19, 33);
+opacity: 0.7;
+position: static;
+width: 200px;
+height: 48px;
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 12px 20px 12px 20px;
+flex: none;
+order: 1;
+flex-grow: 0;
+margin: 32px 0px;
+color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 20px;
+font-weight: 600;
+line-height: 23px;
+letter-spacing: 0%;
+text-align: center;
+}
+.my-aim2{
+    display: flex;
+    align-items: center;
+    background-color: white;
+    justify-content: center;
+    position: absolute;
+    padding-left: 100px;
+    margin-left: 100px;
+
+  margin-top: 500px;
+  border-radius: 16px;
+}
+.my-title2{
+    color: rgba(13, 19, 33, 0.7);
+    font-family: Azeret Mono;
+font-size: 24px;
+font-weight: 700;
+line-height: 36px;
+letter-spacing: 0%;
+text-align: left;
+width: 580px;
+height: 72px;
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: flex-start;
+padding: 0px;
+margin-top: 25px;
+
+
+}
+.my-aim-def2{
+    color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 16px;
+font-weight: 400;
+line-height: 26px;
+letter-spacing: 0%;
+text-align: left;
+opacity: 0.7;
+position: static;
+width: 508px;
+height: 52px;
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: flex-start;
+padding: 0px;
+flex: none;
+order: 1;
+flex-grow: 0;
+margin: 16px 0px;
+padding-top: 30px;
+}
+.chobi2{
+    margin-right: 100px;
+    padding-left: 100px;
+
+}
+.lm2{
+    box-sizing: border-box;
+border: 1px solid rgb(13, 19, 33);
+opacity: 0.7;
+position: static;
+width: 200px;
+height: 48px;
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 12px 20px 12px 20px;
+flex: none;
+order: 1;
+flex-grow: 0;
+margin: 32px 0px;
+color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 20px;
+font-weight: 600;
+line-height: 23px;
+letter-spacing: 0%;
+text-align: center;
+}
+.my-aim3{
+    display: flex;
+    align-items: center;
+    background-color: white;
+    justify-content: center;
+    position: absolute;
+    padding-left: 100px;
+    margin-left: 100px;
+    padding-right: 70px;
+  margin-top: 850px;
+  border-radius: 16px;
+}
+.my-title3{
+    color: rgba(13, 19, 33, 0.7);
+    font-family: Azeret Mono;
+font-size: 24px;
+font-weight: 700;
+line-height: 36px;
+letter-spacing: 0%;
+text-align: left;
+width: 390px;
+height: 72px;
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: flex-start;
+padding: 0px;
+margin-top: 48px;
+
+
+}
+.my-aim-def3{
+    color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 16px;
+font-weight: 400;
+line-height: 26px;
+letter-spacing: 0%;
+text-align: left;
+opacity: 0.7;
+position: static;
+width: 468px;
+height: 52px;
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: flex-start;
+padding: 0px;
+flex: none;
+order: 1;
+flex-grow: 0;
+margin: 16px 0px;
+}
+.chobi3{
+    margin-right: 100px;
+    padding-left: 100px;
+
+}
+.lm3{
+    box-sizing: border-box;
+border: 1px solid rgb(13, 19, 33);
+opacity: 0.7;
+position: static;
+width: 200px;
+height: 48px;
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 12px 20px 12px 20px;
+flex: none;
+order: 1;
+flex-grow: 0;
+margin: 32px 0px;
+color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 20px;
+font-weight: 600;
+line-height: 23px;
+letter-spacing: 0%;
+text-align: center;
+}
