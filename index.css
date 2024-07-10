@@ -10,8 +10,7 @@ nav{
    align-items: center;
 }
 .myname{
-    /* Awlad.H */
-
+  
 width: 128px;
 height: 33px;
 left: 150px;
@@ -610,9 +609,8 @@ width: 500px;
 }
 .language3{
     border-radius: 16px;
-width: 500px;
+    width: 500px;
     background: rgba(255, 223, 0, 0.05);
-    /* Frame 10 */
     position: static;
     height: 350px;
     display: flex;
