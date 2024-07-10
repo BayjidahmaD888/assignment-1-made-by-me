@@ -285,7 +285,7 @@ display: flex;
 flex-direction: column;
 justify-content: center;
 align-items: flex-start;
-padding: 0px;
+padding-right: 300px;
 margin-top: 25px;
 
 
@@ -368,7 +368,7 @@ display: flex;
 flex-direction: column;
 justify-content: center;
 align-items: flex-start;
-padding: 0px;
+padding-right: 190px;
 margin-top: 48px;
 
 
@@ -645,4 +645,95 @@ width: 500px;
     line-height: 26px;
     letter-spacing: 0%;
     text-align: left;
+}
+.support-section{
+    height: 314px;
+    width: 1140px;
+    border: 2px solid black;
+    margin-top: 2222px;
+    margin-left: 150px;
+    background-image: url("assets/handshake.jpg");
+    background-size: 1140px 314px;
+}
+.support-title{
+   
+    color: rgb(255, 255, 255);
+font-family: Azeret Mono;
+font-size: 32px;
+font-weight: 700;
+line-height: 36px;
+letter-spacing: 0%;
+text-align: center;
+
+background-size: cover;
+}
+.kicchukotha{
+    opacity: 0.7;
+    color: rgb(255, 255, 255);
+    font-family: Azeret Mono;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    letter-spacing: 0%;
+    text-align: center;
+}
+.input{
+    box-sizing: border-box;
+border: 1px solid rgba(13, 19, 33, 0.15);
+border-radius: 8px;
+
+background: rgb(255, 255, 255);
+padding-left: 30px;
+}
+.submit{
+    border-radius: 8px;
+
+background: rgb(255, 255, 255);
+color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 20px;
+font-weight: 600;
+line-height: 23px;
+letter-spacing: 0%;
+text-align: center;
+height: 60px;
+}
+.com{
+    color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 20px;
+font-weight: 600;
+line-height: 23px;
+letter-spacing: 0%;
+text-align: center;/* An Open Commitment by Awlad Hossain */
+position: static;
+width: 390px;
+height: 24px;
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: flex-start;
+align-items: center;
+padding: 0px;
+margin-left: 150px;
+
+/* Inside Auto Layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+margin-left: 150px;
+padding-left: 150px;}
+
+footer{
+    height: 100px;
+    width: 1440px;
+background-color: rgba(13, 19, 33, 0.03);
+padding-top: 30px;
+margin-top: 50px;
+display: inline;
+
+} 
+.scocial-media{
+    display: inline;
+    margin-left: 1100px;
 }
